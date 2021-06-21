@@ -11,4 +11,4 @@ These will be updated daily around 0530 GMT.
 
 2. Since the IoC list is updated daily, I would recommend using the list for your cybersecurity incident response/investigation.
 
-3. You can request for more information about a particular IoC via my twitter handle @parthmaniar
+3. For more information, or to report interesting/incorrect findings, give me a shoutout on @parthmaniar on twitter.
