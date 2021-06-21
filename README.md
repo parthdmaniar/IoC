@@ -3,10 +3,12 @@ List of IoC's captured on my honeypots. This includes source IPs, file hash, use
 
 These will be updated daily around 0530 GMT.
 
-### Last updated: 21-06-2021
+#### Last updated: 21-06-2021
 
 # Suggested usage:
 
 1. I *do not* recommend using the IoC's as a *block list*. Security architecture is fundamentally more meaningful as opposed firewall/network device or endpoint block lists.
 
-2. I would recommend using the list for your incident investigation.
+2. Since the IoC list is updated daily, I would recommend using the list for your cybersecurity incident response/investigation.
+
+3. You can request for more information about a particular IoC via my twitter handle @parthmaniar
